@@ -3,7 +3,7 @@ import React, { Component } from "react";
 
 class User extends Component {
   componentWillUnmount() {
-    console.log("User will unmount");
+    // console.log("User will unmount");
   }
 
   render() {
